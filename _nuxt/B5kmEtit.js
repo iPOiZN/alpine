@@ -1,0 +1,1 @@
+import s from"./Bgv-w2My.js";import{d as o,a8 as u,I as f,a9 as m}from"./BuNObza4.js";import"./6-NQR-aG.js";const d=o({name:"Markdown",extends:s,setup(t){const{parent:e}=m(),{between:n,default:a}=u(),r=f(()=>typeof t.unwrap=="string"?t.unwrap.split(" "):["*"]);return{fallbackSlot:a,tags:r,between:n,parent:e}}});export{d as default};
